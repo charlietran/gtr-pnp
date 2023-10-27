@@ -1,6 +1,8 @@
-Glory to Rome Print & Play
+# Glory to Rome Print & Play
+A lightly customized Print & Play version of [Glory to Rome: Black Box edition](https://boardgamegeek.com/boardgame/19857/glory-rome). Inspiration and many graphics sourced by the [popular PnP thread on BGG by Arachnode](https://boardgamegeek.com/thread/1980739/my-glory-rome-reprint-story).
 
-Instructions I used for printplaygames.com, October 2023:
+## Printing Instructions
+Below is what I used to print this out at printplaygames.com in October 2023.
 
 ### Cards
 Images generated from https://gtr.stormtide.net. Each file contains images for 18 cards, and some files have blank spots since you can only print in multiples of 18.
@@ -42,5 +44,16 @@ I measured all the components to fit into the printplaygames 8.6"x5.1" medium bo
 - Printplaygames Item: [Medium Box (5.1" x 8.6" x 1.4")](https://www.printplaygames.com/product/medium-box-5-1-x-8-6-x-1-4/)
 - Files: Box_5.1x8.6x1.4_Base.png and Box_5.1x8.6x1.4_Lid.png
 - Options: Printed Lid & Printed Bottom, No Insert
+
+### Total Cost (with promo expansion)
+
+- 270 cards (15x 18 card sheets), double sided print, gloss: $40.95
+- Medium Box (5.1" x 8.6" x 1.4"), printed lid & bottom: $10.00
+- 5x 8"x4.25" player boards: $11.50
+- Rulebook 4.95"x6.94" 36 pages: $5.84
+- UPS Shipping to midwest USA: $19.18
+- Credit Card Fee: $1.62
+- Shipping Insurance: $3.99
+- **Total:** $93.08
 
 
