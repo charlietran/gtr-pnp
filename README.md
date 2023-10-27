@@ -20,7 +20,7 @@ Included are card sets both with and without the fan-made promo expansion.
 - Options: Print Double Sided, Gloss (cheapest, you can pay more for nicer cards but I sleeved them anyway)
 
 ### Player Boards
-I got these [redesigned player boards](https://boardgamegeek.com/filepage/215385/glory-rome-camp-player-aid) from BGG user BlueBirthNorth. 
+I got these [redesigned player boards](https://boardgamegeek.com/filepage/215385/glory-rome-camp-player-aid) from BGG user BlueBirdnorth. 
 
 The originals are designed to be printed at 9.16"x5.17" and cut down to 8.25"x4.25". I resized and adjusted the design to be printed out at 9"x5" and cut down to 8"x4.25" to fit my intended box.
 
